@@ -16,6 +16,7 @@
   🔥 현재 집중하는 것들
 </summary>
   현재 웹 분야를 공부하는 것에 집중하고 있습니다. 그에 따라 JS를 활용한 다양한 프로젝트를 경험해보는 중입니다.
+  <a href="https://bluishhot-star.tistory.com/">공부곳간</a>
 </details>
 <details>
 <summary>
