@@ -13,11 +13,16 @@
 
 <details>
 <summary>
-  토글 제목
+  🔥 현재 집중하는 것들
 </summary>
-   토글 안 내용
+  현재 웹 분야를 공부하는 것에 집중하고 있습니다. 그에 따라 JS를 활용한 다양한 프로젝트를 경험해보는 중입니다.
 </details>
-
+<details>
+<summary>
+  🗺️ 목표
+</summary>
+  저의 개발자로서의 목표는 가장 접근하기 쉬운 기술인 웹 기술을 활용해서 보다 더 많은 사람들에게 도움을 줄 수 있는 서비스를 만드는 것입니다. 단순히 공급자의 입장에서 제공하는 것이 아닌 사용자의 입장에서 생각한 진정한 서비스를 구현해보고 싶습니다.
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
 <!--
