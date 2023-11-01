@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=header&text=KASSID%WORLD&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=KASSID%WORLD&fontSize=40" />
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluishhot-Star)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=40&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
 <!--
 **Bluishhot-Star/Bluishhot-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
