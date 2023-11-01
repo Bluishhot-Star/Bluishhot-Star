@@ -11,6 +11,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluishhot-Star)](https://github.com/anuraghazra/github-readme-stats)
 
+<details>
+<summary>
+  토글 제목
+</summary>
+   토글 안 내용
+</details>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
 <!--
 **Bluishhot-Star/Bluishhot-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
