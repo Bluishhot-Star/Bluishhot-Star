@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=KASSID%WORLD&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=KASSID%20WORLD&fontSize=40" />
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
